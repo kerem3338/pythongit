@@ -1,0 +1,4 @@
+site_name: Пример доки
+nav:
+    - Главная: index.md
+    - ReadTheDocs : readthedocs.md
